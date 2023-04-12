@@ -1,0 +1,10 @@
+<body>
+    <form>
+        <div><input type="text" value="Nombre" name="nombre"><br></div>
+        <div><input type="text" value="Apellido" name="apellido"><br></div>
+        <div><input type="email" value="ingrese su gmail" name="gmail" required><br></div>
+        <div><input type="submit" value="Enviar el formulario"><input type="reset" value="comenzar de nuevo"></div>
+        
+
+        <p><label><input type="checkbox" name="novedades">Me gustaría recibir novedades</label></p>
+    </form>
